@@ -14,7 +14,7 @@ With title, and intensity change
 ![Image](/graph-1.png)
 
 # Regression line with data point visualization in the background 
-- **points in dark green:** Visualization of respondents' affiliation the Christian religion
+- **points in dark green:** reported abortion disapproval level by affiliation the Christian religion
 - **Line in light green:** predicted values of abortion attitude by the two groups with 95% confidence levels
  
  **Code**  
