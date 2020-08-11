@@ -7,12 +7,6 @@ Using [data](https://doi.org/10.4232/1.13441) from the International Social Surv
 ## About me
 My name is Ivana Drabova, I'm rising junior at NYUAD, majoring in Economics and minoring in Computer Science.
 
-## Acknowledgements
-**Data source:**    
-ISSP Research Group (2020): International Social Survey Programme: Religion IV - ISSP 2018. GESIS Data Archive, Cologne. ZA7570 Data file Version 1.0.0, https://doi.org/10.4232/1.13441  
-
-**Graph scheme used in Stata:** [Burd](https://github.com/briatte/burd)
-
 
 # Pie chart with the explode option
 With title, and intensity change  
@@ -70,3 +64,8 @@ In percentages
 graph export "graph bar average abortion attitude by top 4 religion.png", replace`
 ![Image](/graph-4.png)
 
+## Acknowledgements
+**Data source:**    
+ISSP Research Group (2020): International Social Survey Programme: Religion IV - ISSP 2018. GESIS Data Archive, Cologne. ZA7570 Data file Version 1.0.0, https://doi.org/10.4232/1.13441  
+
+**Graph scheme used in Stata:** [Burd](https://github.com/briatte/burd)
