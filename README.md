@@ -5,7 +5,7 @@ Using [data](https://doi.org/10.4232/1.13441) from the International Social Surv
 - investigate differences in attitudes between those of no religion and those affiliated with a Christian religion
 
 ## About me
-My name is Ivana Drabova, I'm rising junior at NYUAD, majoring in Economics and minoring in Computer Science.
+My name is Ivana Drabova, I'm a rising junior at NYUAD, majoring in Economics and minoring in Computer Science.
 
 
 # Pie chart with the explode option
@@ -14,7 +14,7 @@ With title, and intensity change
 ![Image](/graph-1.png)
 
 # Regression line with data point visualization in the background 
-- **points in dark green:** Visualization of respondents' affiliation to Christian religion 
+- **points in dark green:** Visualization of respondents' affiliation the Christian religion
 - **Line in light green:** predicted values of abortion attitude by the two groups with 95% confidence levels
  
  **Code**  
@@ -29,8 +29,8 @@ With title, subtitle, ylabel change, implicit ylabel values to display with guid
 ![Image](/graph-3.png)
 
 # Frequency bar graph and contract command demonstration
-**creating new dta file and using it within the old dta file**
-It was necessary to use the `contract ` command and export to new dta file. However, I did *not* want to open a new stata window to work with the new dta file. So it was necessary to come back to original dta file with commands save and use as demonstrated below.  
+**creating new .dta file and using it within the old .dta file**
+It was necessary to use the `contract ` command and export to new .dta file. However, I did *not* want to open a new stata window to work with the new .dta file. So it was necessary to come back to original .dta file with commands save and use as demonstrated below.  
 
 ```
 save *original-dta-file*, replace
@@ -68,4 +68,4 @@ graph export "graph bar average abortion attitude by top 4 religion.png", replac
 **Data source:**    
 ISSP Research Group (2020): International Social Survey Programme: Religion IV - ISSP 2018. GESIS Data Archive, Cologne. ZA7570 Data file Version 1.0.0, https://doi.org/10.4232/1.13441  
 
-**Graph scheme used in Stata:** [Burd](https://github.com/briatte/burd)
+**Stata graph scheme:** [Burd](https://github.com/briatte/burd)
