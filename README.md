@@ -1,11 +1,10 @@
 # Welcome
-Welcome to my page where I showcase graphs I did in Stata for my data analyses project about abortion attitudes in Slovakia.  
-Using [data](https://doi.org/10.4232/1.13441) from the International Social Survey Programme, my aim was to:  
-- analyze the level of abortion disapproval by the degree of religiosity  
-- investigate differences in attitudes between those of no religion and those affiliated with a Christian religion
 
-## About me
-My name is Ivana Drabova, I'm a rising junior at NYUAD, majoring in Economics and minoring in Computer Science.
+This serves as a showcase of graphs in STATA. 
+
+Using [data](https://doi.org/10.4232/1.13441) from the International Social Survey Programme.
+
+
 
 
 # Pie chart with the explode option
